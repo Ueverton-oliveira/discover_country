@@ -1,0 +1,13 @@
+.card-title {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: hsl(0, 0%, 20%);
+    text-align: center;
+}
+
+.card-text {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: hsl(0, 0%, 30%);
+    text-align: center;
+}
